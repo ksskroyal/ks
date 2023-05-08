@@ -1,0 +1,47 @@
+{
+	"CookingRecipe":
+	[
+		{
+			"Name":"Bao crab",
+			"Cal":2237,
+			"Time":323,
+			"Ingredient":[
+				{
+					"Name":"Salt",
+					"Value":53
+				},
+				{
+					"Name":"Zucchini",
+					"Value":6
+				},
+				{
+					"Name":"Flour",
+					"Value":85
+				}
+			]
+		},
+		{
+			"Name":"Julienne",
+			"Cal":2871,
+			"Time":356,
+			"Ingredient":[
+				{
+					"Name":"Garlic",
+					"Value":80
+				},
+				{
+					"Name":"Tomato paste",
+					"Value":11
+				},
+				{
+					"Name":"Milk",
+					"Value":84
+				},
+				{
+					"Name":"Water",
+					"Value":13
+				}
+			]
+		}
+	]
+}

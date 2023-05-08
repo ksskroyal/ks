@@ -1,0 +1,5 @@
+/Users/assassin/Desktop/task_3/build/CMakeFiles/main.dir
+/Users/assassin/Desktop/task_3/build/CMakeFiles/edit_cache.dir
+/Users/assassin/Desktop/task_3/build/CMakeFiles/rebuild_cache.dir
+/Users/assassin/Desktop/task_3/build/ext/nlohmann/CMakeFiles/edit_cache.dir
+/Users/assassin/Desktop/task_3/build/ext/nlohmann/CMakeFiles/rebuild_cache.dir
